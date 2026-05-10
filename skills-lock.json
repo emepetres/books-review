@@ -13,6 +13,12 @@
       "skillPath": "skills/engineering/diagnose/SKILL.md",
       "computedHash": "1c3c85517ac42116fe5f2bfb5150f7b3e38ad23808e40b33fbb01f1afb611983"
     },
+    "faithful-translate": {
+      "source": "emepetres/skills",
+      "sourceType": "github",
+      "skillPath": "skills/faithful-translate/SKILL.md",
+      "computedHash": "46d2d99173e2b2713a9c9560451c77a0eb943aaf7482493a3caeee1460894128"
+    },
     "grill-me": {
       "source": "mattpocock/skills",
       "sourceType": "github",
