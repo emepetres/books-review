@@ -1,13 +1,13 @@
 ---
 name: essay-book-notes
-description: Generate faithful, structured Obsidian-ready notes in English from attached nonfiction essay books, especially software development, engineering management, and philosophy. Use when the user attaches a full PDF or EPUB book and asks for book notes, chapter summaries, Obsidian notes, blog source notes, or reusable summaries.
+description: Generate faithful, structured Obsidian-ready notes in the source book's language from attached nonfiction essay books, especially software development, engineering management, and philosophy. Use when the user attaches a full PDF or EPUB book and asks for book notes, chapter summaries, Obsidian notes, blog source notes, or reusable summaries.
 ---
 
 # Essay Book Notes
 
 ## Quick Start
 
-When a user provides a complete PDF or EPUB nonfiction book, produce one Markdown note in English that mirrors the book's chapter structure exactly. Use only the attached book as the source of truth.
+When a user provides a complete PDF or EPUB nonfiction book, produce one Markdown note in the same language as the source book that mirrors the book's chapter structure exactly. Use only the attached book as the source of truth.
 
 Never rely on prior knowledge of the title, other editions, reviews, summaries, or known canonical structures. If the attached file differs from outside knowledge, the attached file wins.
 
@@ -29,23 +29,25 @@ Start with one global book reference only:
 **Reference**: [Author(s)]. [Full Book Title]. [Edition, if any]. [Year, if identifiable].
 ```
 
-Then create exactly one section per chapter, in the original order:
+Then create exactly one section per chapter, in the original order. Localize fixed headings and labels to the source book's language:
 
 ```md
 ## [Chapter number and exact title]
 
 [Chapter notes]
 
-### Relationships With Other Chapters
+### [Localized equivalent of "Relationships With Other Chapters"]
 
-- **Chapter X**: [brief factual relation: reinforces, expands, contrasts with, depends on, anticipates, returns to].
+- **[Localized chapter label] X**: [brief factual relation: reinforces, expands, contrasts with, depends on, anticipates, returns to].
 ```
 
 Do not include bibliographic references inside chapter sections.
 
 ## Chapter Writing Rules
 
-Write in impersonal, declarative, timeless English, as knowledge-base material. Avoid meta-narrative and comments about the text.
+Write in the same language as the source book, using an impersonal, declarative, timeless style suitable for knowledge-base material. Avoid meta-narrative and comments about the text.
+
+Keep the prose pragmatic, readable, and easy to understand. When the source language is dense, archaic, academic, or philosophically difficult, slightly adapt the wording for clarity while preserving the original meaning, scope, and distinctions.
 
 Do not write formulations like "This introduces...", "The chapter explains...", "The chapter emphasizes...", "This section describes...", or "Throughout the chapter...".
 
@@ -69,4 +71,4 @@ In case of conflict, prioritize structural fidelity, schematic clarity, and repr
 
 ## Final Thematic Notes
 
-After the complete summary, add `## Possible Derived Thematic Notes` with 3 to 6 suggested derivative notes. These are suggestions only, not replacements for the chapter-aligned summary.
+After the complete summary, add a localized equivalent of `## Possible Derived Thematic Notes` with 3 to 6 suggested derivative notes. These are suggestions only, not replacements for the chapter-aligned summary.
