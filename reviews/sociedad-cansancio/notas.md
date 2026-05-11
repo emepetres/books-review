@@ -49,8 +49,7 @@ El sujeto del rendimiento es tanto víctima como perpetrador. La dominación ext
 
 ### Destacados
 
-- La prohibición, el mandato y la ley son
-reemplazados por el proyecto, la iniciativa y la motivación. En la sociedad disciplinaria todavía impera el no. Su negatividad genera trastornados y criminales. En cambio, la sociedad del rendimiento genera deprimidos y fracasados.
+- La prohibición, el mandato y la ley son reemplazados por el proyecto, la iniciativa y la motivación. En la sociedad disciplinaria todavía impera el no. Su negatividad genera trastornados y criminales. En cambio, la sociedad del rendimiento genera deprimidos y fracasados.
 - lo que nos enferma no es el exceso de responsabilidad y de iniciativa, sino el imperativo del rendimiento, la obligación de rendir, que viene a ser el nuevo mandamiento de la sociedad laboral en la Modernidad tardía.
 - El hombre depresivo es aquel animal laborans que se explota a sí mismo, y que encima lo hace voluntariamente, sin que otros lo obliguen. Es víctima y verdugo al mismo tiempo.
 - El exceso de trabajo y de rendimiento se intensifica hasta convertirse en autoexplotación.
