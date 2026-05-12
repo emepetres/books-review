@@ -4,9 +4,9 @@
 
 ## Prometeo extenuado · Prólogo ·
 
-El mito de Prometeo funciona como figura del sujeto contemporáneo obligado a rendir. El encadenamiento no procede de una fuerza exterior visible, sino de una relación del sujeto consigo mismo. El águila que devora el hígado de Prometeo representa el *alter ego* que convierte la existencia en autoexplotación. El dolor de ese órgano que se regenera sin fin aparece como cansancio infinito.
+El mito de Prometeo funciona como figura del sujeto contemporáneo obligado a rendir. El encadenamiento no procede de una fuerza exterior visible, sino de una relación del sujeto consigo mismo. El águila que devora el hígado de Prometeo representa el _alter ego_ que convierte la existencia en autoexplotación. El dolor de ese órgano que se regenera sin fin aparece como cansancio infinito.
 
-*Prometeo es el arquetipo de la sociedad del cansancio*. La violencia ya no se presenta solo como imposición externa, sino como guerra interior del sujeto contra sí mismo.
+_Prometeo es el arquetipo de la sociedad del cansancio_. La violencia ya no se presenta solo como imposición externa, sino como guerra interior del sujeto contra sí mismo.
 
 Kafka permite distinguir otra forma de fatiga. El cansancio no tiene por qué abrir heridas ni intensificar la soberbia del yo; también puede cerrar heridas. La fatiga curativa no equivale a la extenuación irritada del rendimiento, sino a una lasitud que depone cordialmente el ego.
 
@@ -18,7 +18,7 @@ Kafka permite distinguir otra forma de fatiga. El cansancio no tiene por qué ab
 
 ## La violencia neuronal
 
-El comienzo del siglo XXI se define por enfermedades neuronales como la depresión, el TDAH, el trastorno límite de la personalidad o el *burnout*. Estas patologías no son infecciones, sino infartos psíquicos. No derivan de la negatividad de lo extraño, sino de un exceso de positividad.
+El comienzo del siglo XXI se define por enfermedades neuronales como la depresión, el TDAH, el trastorno límite de la personalidad o el _burnout_. Estas patologías no son infecciones, sino infartos psíquicos. No derivan de la negatividad de lo extraño, sino de un exceso de positividad.
 
 El siglo anterior estuvo organizado por el paradigma inmunológico. Sus distinciones centrales eran dentro y fuera, amigo y enemigo, propio y ajeno. La acción inmunitaria defendía, atacaba y rechazaba lo extraño por su mera alteridad. Ese paradigma pierde fuerza en una sociedad globalizada donde desaparecen los límites, las fronteras y los umbrales.
 
@@ -58,7 +58,7 @@ La depresión no nace principalmente de la obligación de pertenecerse a sí mis
 ### Relaciones con otros capítulos
 
 - **La violencia neuronal**: aplica la positividad al diagnóstico de las patologías neuronales.
-- **Vita activa**: amplía la figura del *animal laborans* en la modernidad tardía.
+- **Vita activa**: amplía la figura del _animal laborans_ en la modernidad tardía.
 - **Sociedad del burnout**: retoma la autoexplotación como estructura central del régimen de rendimiento.
 
 ## Aburrimiento profundo
@@ -67,7 +67,7 @@ El exceso de positividad se manifiesta como exceso de estímulos, informaciones 
 
 La sociedad humana se aproxima a una naturaleza salvaje cuando la atención se distribuye superficialmente entre tareas, amenazas y estímulos. La preocupación por la vida buena cede ante la preocupación por sobrevivir.
 
-La cultura y la filosofía presuponen una atención intensa y contemplativa. Esta atención es desplazada por la hiperatención, que cambia rápidamente de foco y tolera mal el aburrimiento. El *aburrimiento profundo* posee valor creativo porque relaja espiritualmente y permite incubar experiencia. El estrés solo reproduce y acelera lo existente.
+La cultura y la filosofía presuponen una atención intensa y contemplativa. Esta atención es desplazada por la hiperatención, que cambia rápidamente de foco y tolera mal el aburrimiento. El _aburrimiento profundo_ posee valor creativo porque relaja espiritualmente y permite incubar experiencia. El estrés solo reproduce y acelera lo existente.
 
 El aburrimiento tolerado permite nuevas formas de movimiento. Caminar puede convertirse en danza cuando el hastío profundo rompe la marcha lineal. La danza, con sus inflexiones, no encaja con el principio de rendimiento.
 
@@ -81,9 +81,9 @@ La contemplación no se limita al ser imperecedero. También capta lo evanescent
 
 ## Vita activa
 
-Hannah Arendt rehabilita la *vita activa* frente a la primacía tradicional de la *vita contemplativa*. Su redefinición concede primacía a la acción y vincula el actuar con el nacimiento como posibilidad de comenzar algo nuevo. La acción adquiere así un énfasis heroico y casi religioso.
+Hannah Arendt rehabilita la _vita activa_ frente a la primacía tradicional de la _vita contemplativa_. Su redefinición concede primacía a la acción y vincula el actuar con el nacimiento como posibilidad de comenzar algo nuevo. La acción adquiere así un énfasis heroico y casi religioso.
 
-Arendt interpreta la modernidad como triunfo del *animal laborans*. La sociedad laboral rebajaría producción, acción y pensamiento al nivel del trabajo. Sin embargo, esta descripción no encaja con la sociedad del rendimiento. El *animal laborans* de la modernidad tardía no se disuelve serenamente en la especie ni renuncia a su individualidad; está saturado de ego, hiperactivo e hiperneurótico.
+Arendt interpreta la modernidad como triunfo del _animal laborans_. La sociedad laboral rebajaría producción, acción y pensamiento al nivel del trabajo. Sin embargo, esta descripción no encaja con la sociedad del rendimiento. El _animal laborans_ de la modernidad tardía no se disuelve serenamente en la especie ni renuncia a su individualidad; está saturado de ego, hiperactivo e hiperneurótico.
 
 La pérdida de fe en Dios, en el más allá y en la realidad intensifica la fugacidad de la vida. El mundo pierde duración, persistencia y narratividad. Ante esa carencia ontológica, la vida se degrada a nuda vida y el trabajo se convierte en nuda actividad. La salud se absolutiza cuando no hay un horizonte de sentido que trascienda la mera supervivencia.
 
@@ -99,7 +99,7 @@ La conclusión de Arendt termina invocando el pensamiento y una cita de Catón q
 
 ## Pedagogía de la mirada
 
-La *vita contemplativa* exige una pedagogía de la mirada. Nietzsche formula tres aprendizajes: mirar, pensar, y hablar y escribir. Aprender a mirar significa acostumbrar el ojo a la calma, a la paciencia y a la espera hasta que las cosas lleguen. Esta educación permite una atención intensa y contemplativa.
+La _vita contemplativa_ exige una pedagogía de la mirada. Nietzsche formula tres aprendizajes: mirar, pensar, y hablar y escribir. Aprender a mirar significa acostumbrar el ojo a la calma, a la paciencia y a la espera hasta que las cosas lleguen. Esta educación permite una atención intensa y contemplativa.
 
 La mirada educada no reacciona de inmediato ante cada estímulo. La espiritualidad requiere instintos de inhibición y moldeamiento. La incapacidad de resistir un estímulo expresa agotamiento. La contemplación no equivale a pasividad; es una acción soberana de rechazo frente a la avalancha de impulsos.
 
@@ -153,7 +153,7 @@ El cansancio destructivo ocupa todo el campo visual con el yo. El cansancio reco
 
 La lasitud inspiradora no incapacita sin más; inspira a no hacer. Permite serenidad, demora y atención a formas duraderas que la hiperatención no capta. El cansancio profundo afloja la identidad, vuelve permeables las cosas y crea una cordialidad sin pertenencia ni parentesco.
 
-El *sabbat* es día de no hacer, tiempo sin finalidad e intermedio para el juego. La sociedad futura podría llamarse sociedad del cansancio si toma la forma de una comunidad de fatigados que comparten una lasitud capaz de crear concordancia y paz.
+El _sabbat_ es día de no hacer, tiempo sin finalidad e intermedio para el juego. La sociedad futura podría llamarse sociedad del cansancio si toma la forma de una comunidad de fatigados que comparten una lasitud capaz de crear concordancia y paz.
 
 ### Relaciones con otros capítulos
 
@@ -171,11 +171,11 @@ El sujeto moral kantiano y el sujeto freudiano comparten una estructura de escis
 
 La crisis de gratificación surge por falta de relación con el otro. El narcisismo borra la frontera entre yo y mundo, de modo que lo distinto solo sirve para experimentar el propio yo. Las experiencias transformadoras son sustituidas por vivencias igualadoras.
 
-El *burnout* resulta de una competencia absoluta del sujeto consigo mismo. La autorrealización coincide con la autodestrucción. El yo real se compara con un yo ideal inalcanzable y genera autoagresividad. El proyecto se convierte en proyectil dirigido contra el propio sujeto.
+El _burnout_ resulta de una competencia absoluta del sujeto consigo mismo. La autorrealización coincide con la autodestrucción. El yo real se compara con un yo ideal inalcanzable y genera autoagresividad. El proyecto se convierte en proyectil dirigido contra el propio sujeto.
 
 La depresión se diferencia de la melancolía, la tristeza y el duelo. Estas conservan una relación con un objeto perdido o amado; la depresión carece de objeto, orientación y vínculo. El mundo digital intensifica esta pobreza de alteridad, porque el yo se encuentra sobre todo consigo mismo.
 
-La sociedad del rendimiento transforma al *homo liber* en *homo sacer* de sí mismo. El hechizo del rendimiento sustituye a la proscripción soberana. La economía capitalista absolutiza la supervivencia, vacía la vida de narratividad y convierte la salud en una finalidad sin objetivo.
+La sociedad del rendimiento transforma al _homo liber_ en _homo sacer_ de sí mismo. El hechizo del rendimiento sustituye a la proscripción soberana. La economía capitalista absolutiza la supervivencia, vacía la vida de narratividad y convierte la salud en una finalidad sin objetivo.
 
 ### Relaciones con otros capítulos
 
@@ -193,7 +193,7 @@ El tiempo sublime no se produce por desaceleración. Requiere una forma de vida 
 
 La autoexplotación neoliberal sustituye la alienación por autorrealización. El sujeto se mata optimizándose. La libertad de poder genera coerciones más ilimitadas que el deber disciplinario. La represión deja paso a la depresión.
 
-La vida reducida a supervivencia produce histeria por la salud. Sin la negatividad de la muerte, la vida se anquilosa. La salud absoluta genera una vida mórbida, de zombis del rendimiento, del *fitness* y del bótox.
+La vida reducida a supervivencia produce histeria por la salud. Sin la negatividad de la muerte, la vida se anquilosa. La salud absoluta genera una vida mórbida, de zombis del rendimiento, del _fitness_ y del bótox.
 
 Las formas libres de vida se sitúan fuera de la necesidad y la utilidad: disfrute de las cosas bellas, acción política bella y vida contemplativa. La política deja de ser política cuando solo gestiona necesidades sin alternativas. Belleza y justicia aparecen vinculadas.
 
@@ -206,12 +206,3 @@ El arte nace unido a la fiesta y al culto. Al perder valor de culto y quedar som
 - **Sociedad del cansancio**: prolonga el intermedio lúdico y el no hacer del cansancio fundamental.
 - **Vita activa**: recupera formas libres de vida frente al dominio del trabajo.
 - **Sociedad del burnout**: conecta autoexplotación, supervivencia y crisis de libertad.
-
-## Posibles notas temáticas derivadas
-
-- *Positividad y negatividad en La sociedad del cansancio*.
-- *Autoexplotación, libertad coercitiva y neoliberalismo*.
-- *Atención contemplativa, aburrimiento profundo y pedagogía de la mirada*.
-- *Cansancio destructivo y cansancio curativo*.
-- *Tiempo festivo, juego y profanación del trabajo*.
-- *Depresión, burnout y desaparición de la alteridad*.
