@@ -1,13 +1,13 @@
 ---
-name: essay-book-notes
-description: Generate faithful, structured Obsidian-ready notes in the source book's language from attached nonfiction essay books, especially software development, engineering management, and philosophy. Use when the user attaches a full PDF or EPUB book and asks for book notes, chapter summaries, Obsidian notes, blog source notes, or reusable summaries.
+name: essay-book-summary
+description: Generate faithful, structured Obsidian-ready summary in the source book's language from attached nonfiction essay books, especially software development, engineering management, and philosophy. Use when the user attaches a full PDF or EPUB book and asks for book summary, chapter summaries, Obsidian summary, blog source summary, or reusable summaries.
 ---
 
-# Essay Book Notes
+# Essay Book summary
 
 ## Quick Start
 
-When a user provides a complete PDF or EPUB nonfiction book, produce one Markdown note in the same language as the source book that mirrors the book's chapter structure exactly. Use only the attached book as the source of truth.
+When a user provides a complete PDF or EPUB nonfiction book, produce one Markdown file in the same language as the source book that mirrors the book's chapter structure exactly. Use only the attached book as the source of truth.
 
 Never rely on prior knowledge of the title, other editions, reviews, summaries, or known canonical structures. If the attached file differs from outside knowledge, the attached file wins.
 
@@ -17,7 +17,6 @@ Never rely on prior knowledge of the title, other editions, reviews, summaries, 
 2. Extract the table of contents exactly as it appears in the attached book: preserve chapter order, chapter numbers, and title text. Treat this table of contents as the only structural source of truth.
 3. Before drafting, verify structural alignment: same number of planned sections as extracted chapters, same order, one section per chapter, and no chapters merged, split, skipped, renamed, or reordered.
 4. For each chapter, follow the same stable process: identify key concepts, explain each concept explicitly, convert implicit enumerations into explicit lists, draft without personal prioritization, and identify factual links to other chapters in the same book.
-5. After the chapter summaries, propose 3 to 6 possible derived thematic notes.
 
 ## Markdown Output
 
@@ -34,7 +33,7 @@ Then create exactly one section per chapter, in the original order. Localize fix
 ```md
 ## [Chapter number and exact title]
 
-[Chapter notes]
+[Chapter summary]
 
 ### [Localized equivalent of "Relationships With Other Chapters"]
 
@@ -68,7 +67,3 @@ Repeat an idea in every chapter where it appears, according to that chapter's sp
 Derive all content exclusively from the attached book. Do not fill gaps with external knowledge. Do not add ideas unless they are clearly present in the corresponding chapter. Do not reorganize concepts globally or add interpretive comparisons between chapters. Use examples only when they clearly appear in the chapter, and keep them brief and abstract.
 
 In case of conflict, prioritize structural fidelity, schematic clarity, and reproducible consistency over creative synthesis or excessive compression.
-
-## Final Thematic Notes
-
-After the complete summary, add a localized equivalent of `## Possible Derived Thematic Notes` with 3 to 6 suggested derivative notes. These are suggestions only, not replacements for the chapter-aligned summary.

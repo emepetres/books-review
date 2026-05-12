@@ -1,4 +1,4 @@
-# Essay Book Notes Reference
+# Essay Book Summary Reference
 
 ## Banned Meta-Narrative
 
@@ -57,4 +57,3 @@ Before finalizing, verify:
 - Each section maps to one chapter only.
 - Repeated ideas are summarized in every chapter where they appear.
 - Examples are included only when clearly present in the chapter.
-- The final thematic-note suggestions are separate from the main summary.
